@@ -93,7 +93,7 @@ The dataset (`HR_Analytics.csv`) includes features such as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Adarshtechy/WorkForce-Attrition-Analytics-PowerBI.git
-  ```bash
+  '''
 
 2. Open the HR Analytics Dashboard.pbix in Power BI Desktop
 
